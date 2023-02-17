@@ -1,0 +1,18 @@
+﻿ody {
+    background-color: #caccce;
+    font-family: 'Source Sans 3', sans-serif;
+}
+
+.navbar {
+    font-family: 'Source Sans 3', sans-serif;
+    background-color:white;
+    height: 212px;
+}
+
+.navbar-logo {
+    height: 7%;
+    width: 7%;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: transparent;
+}
